@@ -8,7 +8,7 @@ La primera mujer en ganar un Premio Nobel fue Marie Curie, nacida Sklodowska, en
 Los ganadores repetidos son: ['Comité Internacional de la Cruz Roja (Comité Internacional de la Cruz Roja)', 'Linus Carl Pauling', 'John Bardeen', 'Frederick Sanger', 
 'Marie Curie, née Sklodowska', 'Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)']
 
-## Desempeño de ,os grinfos en distintas categorias 
+## Desempeño de los grinfos en distintas categorias 
 
 ![image](https://github.com/Cholico/Project-Visualizing-the-History-of-Nobel-Prize-Winners/assets/64911913/a7125ea2-852f-45c1-9291-965a7fd1d699)
 

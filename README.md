@@ -1,7 +1,7 @@
 # Los resultados de mi analisis fueron:
 
 El género con más premios Nobel es: Masculino
-El país de nacimiento más común de los premios Nobel es: Estados Unidos de América
+El país de nacimiento más común de los premios Nobel es: Estados Unidos de América y su decada mas fructifera fueron los 2000
 
 La primera mujer en ganar un Premio Nobel fue Marie Curie, nacida Sklodowska, en la categoría de Física.
 
